@@ -6,4 +6,4 @@ if name == "herry":
         print("entered the second one")
 
 else:
-    print ("the second one")
+    print ("the second oneamsdansd ")
