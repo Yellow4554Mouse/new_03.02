@@ -1,8 +1,9 @@
-l = [45,86,72,6,8]
-s = set(l)
-print("l:" , l)
-print("s:", s)
-print (len(l)==len(s))
+name = "herry"
+password = "swordfish"
+if name == "herry":
+    print("hello herry")
+    if password != "swordfish":
+        print("entered the second one")
 
-s = {4,5,4, 4}
-print("set :" , s)
+else:
+    print ("the second one")
